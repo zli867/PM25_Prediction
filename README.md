@@ -15,7 +15,7 @@
 * Classification: predict high $PM_{2.5}$ days by using emissions, metereological conditions.
 
 ## Authorship
-* The paper is submitted to ES&T
+* The paper is co-authored with Dr. Gao and submitted to ES&T
   
 * The code is implemented by Zongrun Li (zli867@gatech.edu)
 
